@@ -26,20 +26,22 @@
 
 ##### Home Page
 
-<div><center>
-<img src=pics/home.png width=70% height=70% style="display=flex; float=center;">
-</center></div>
+<div style="display=flex; justify-content:center;align-items:center;">
+<img src=pics/home.png width=70% height=70%>
+</div>
 
 ##### Login 
 
 <div><center>
-<img src=pics/login.png width=70% height=70% style="display=flex; float=center;">
+<img src=pics/login.png width=70% height=70% style="display=flex;   justify-content: center;
+  align-items: center;">
 </center></div>
 
 ##### Github
 
 <div><center>
-<img src=pics/github.png width=70% height=70% style="display=flex; float=center;">
+<img src=pics/github.png width=70% height=70% style="display=flex;   justify-content: center;
+  align-items: center;;">
 </center></div>
 
 ##### Guide
