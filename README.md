@@ -24,31 +24,30 @@
 
 ### Show
 
-##### Home Page
-
-<div style="display=flex; justify-content:center;align-items:center;">
-<img src=pics/home.png width=70% height=70%>
-</div>
-
-##### Login 
+#### Home Page
 
 <div><center>
-<img src=pics/login.png width=70% height=70% style="display=flex;   justify-content: center;
-  align-items: center;">
+<img src=pics/home.png width=90% height=90%>
 </center></div>
 
-##### Github
+#### Login 
 
 <div><center>
-<img src=pics/github.png width=70% height=70% style="display=flex;   justify-content: center;
-  align-items: center;;">
+<img src=pics/login.png width=90% height=90%>
 </center></div>
 
-##### Guide
+#### Github
 
 <div><center>
-<img src=pics/guide.png width=70% height=70% style="display=flex; float=center;">
+<img src=pics/github.png width=90% height=90%>
 </center></div>
+
+#### Guide
+
+<div><center>
+<img src=pics/guide.png width=90% height=90%>
+</center></div>
+
 
 
 
