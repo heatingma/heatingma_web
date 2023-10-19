@@ -51,20 +51,40 @@
 <img src=pics/log.png width=100% height=100%>
 </center></div>
 
-##### My Section
+#### My Section
 
 <div><center>
 <img src=pics/body_my.png width=100% height=100%>
 </center></div>
 
-##### Chatroom-Post Section
+#### Chatroom-Post Section
 
 <div><center>
 <img src=pics/post.png width=100% height=100%>
 </center></div>
 
-##### Dark Model
+#### Dark Model
 
 <div><center>
 <img src=pics/dark.png width=100% height=100%>
+</center></div>
+
+#### GNetChat Version
+
+##### version 0.0.*
+
+<div><center>
+<img src=pics/GNetChat-Version0.png width=100% height=100%>
+</center></div>
+
+##### version 0.1.*
+
+<div><center>
+<img src=pics/GNetChat-Version1.png width=100% height=100%>
+</center></div>
+
+##### version 0.2.*
+
+<div><center>
+<img src=pics/GNetChat-Version2.png width=100% height=100%>
 </center></div>
