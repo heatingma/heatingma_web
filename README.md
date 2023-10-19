@@ -50,18 +50,6 @@
 <img src=pics/log.png width=100% height=100%>
 </center></div>
 
-#### Chatroom
-
-<div><center>
-<img src=pics/log.png width=100% height=100%>
-</center></div>
-
-#### Login & Register
-
-<div><center>
-<img src=pics/log.png width=100% height=100%>
-</center></div>
-
 ##### My Section
 
 <div><center>
