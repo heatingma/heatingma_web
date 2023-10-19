@@ -1,53 +1,81 @@
-## MY WEBSITE
+## MY WEBSITE & GNetChat
 
 &emsp;&emsp;Welcome to my website, it records my project, student work, and also provides some convenient services.
 
 ### Website Address
 
 &emsp;&emsp;[click to visit my website](http://heatingma.cn/)
+&emsp;&emsp;[click to visit GNetChat](http://gnetchat.cn/)【need invatation codes】
+
 
 ### Schedule
 
 #### Finished
 
 - [x] Home Page
-- [x] Guide (part)
+- [x] Guide
 - [x] Github Introduction
-- [x] Login & Register (font-end)
+- [x] GNetChat
 
-#### To do in feature
+#### To do list
 
-- [ ] Guide (left)
-- [ ] Login & Register (back-end)
-- [ ] ChuntSung (Maybe)
-
-
-### Show
+- [ ] Optimize GNetChat
+- [ ] ChuntSung
+  
+### Website Show
 
 #### Home Page
 
 <div><center>
-<img src=pics/home.png width=90% height=90%>
-</center></div>
-
-#### Login 
-
-<div><center>
-<img src=pics/login.png width=90% height=90%>
+<img src=pics/home.png width=100% height=100%>
 </center></div>
 
 #### Github
 
 <div><center>
-<img src=pics/github.png width=90% height=90%>
+<img src=pics/github.png width=100% height=100%>
 </center></div>
 
 #### Guide
 
 <div><center>
-<img src=pics/guide.png width=90% height=90%>
+<img src=pics/guide.png width=100% height=100%>
 </center></div>
 
+### GNetChat
 
+#### Login & Register
 
+<div><center>
+<img src=pics/log.png width=100% height=100%>
+</center></div>
 
+#### Chatroom
+
+<div><center>
+<img src=pics/log.png width=100% height=100%>
+</center></div>
+
+#### Login & Register
+
+<div><center>
+<img src=pics/log.png width=100% height=100%>
+</center></div>
+
+##### My Section
+
+<div><center>
+<img src=pics/body_my.png width=100% height=100%>
+</center></div>
+
+##### Chatroom-Post Section
+
+<div><center>
+<img src=pics/post.png width=100% height=100%>
+</center></div>
+
+##### Dark Model
+
+<div><center>
+<img src=pics/dark.png width=100% height=100%>
+</center></div>
